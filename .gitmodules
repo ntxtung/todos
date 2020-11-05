@@ -3,7 +3,7 @@
 	url = https://github.com/ntxtung/todo-frontend
 [submodule "todo-api-gateway"]
     path = todo-api-gateway
-	# url = https://github.com/ntxtung/todo-backend
+	url = https://github.com/ntxtung/todo-api-gateway.git
 [submodule "todo-event-bus"]
     path = todo-event-bus
 	# url = https://github.com/ntxtung/todo-backend
