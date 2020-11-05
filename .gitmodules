@@ -2,14 +2,14 @@
     path = todo-frontend
 	url = https://github.com/ntxtung/todo-frontend
 [submodule "todo-api-gateway"]
-    path = todo-services
+    path = todo-api-gateway
 	# url = https://github.com/ntxtung/todo-backend
 [submodule "todo-event-bus"]
-    path = todo-services
+    path = todo-event-bus
 	# url = https://github.com/ntxtung/todo-backend
 [submodule "todo-card-list-services"]
-    path = todo-services
+    path = todo-card-list-services
 	# url = https://github.com/ntxtung/todo-backend
 [submodule "todo-card-services"]
-    path = todo-services
+    path = todo-card-services
 	# url = https://github.com/ntxtung/todo-backend
