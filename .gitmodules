@@ -1,6 +1,15 @@
 [submodule "todo-frontend"]
     path = todo-frontend
 	url = https://github.com/ntxtung/todo-frontend
-[submodule "todo-backend"]
-    path = todo-backend
-	url = https://github.com/ntxtung/todo-backend
+[submodule "todo-api-gateway"]
+    path = todo-services
+	# url = https://github.com/ntxtung/todo-backend
+[submodule "todo-event-bus"]
+    path = todo-services
+	# url = https://github.com/ntxtung/todo-backend
+[submodule "todo-card-list-services"]
+    path = todo-services
+	# url = https://github.com/ntxtung/todo-backend
+[submodule "todo-card-services"]
+    path = todo-services
+	# url = https://github.com/ntxtung/todo-backend
