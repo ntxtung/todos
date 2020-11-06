@@ -1,2 +1,4 @@
-
+.vscode/
 .idea/
+docker/data/
+docker/logs/

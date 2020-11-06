@@ -7,9 +7,6 @@
 [submodule "todo-event-bus"]
     path = todo-event-bus
 	url = https://github.com/ntxtung/todo-event-bus.git
-[submodule "todo-card-list-services"]
-    path = todo-card-list-services
-	url = https://github.com/ntxtung/todo-card-list-services
-[submodule "todo-card-services"]
-    path = todo-card-services
-	url = https://github.com/ntxtung/todo-card-services
+[submodule "todo-board"]
+    path = todo-board
+	url = https://github.com/ntxtung/todo-board.git
