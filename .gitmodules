@@ -10,3 +10,6 @@
 [submodule "todo-board"]
     path = todo-board
 	url = https://github.com/ntxtung/todo-board.git
+[submodule "todo-auth"]
+    path = todo-auth
+	url = https://github.com/ntxtung/todo-auth.git
